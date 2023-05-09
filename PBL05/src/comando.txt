@@ -1,0 +1,17 @@
+Implemente uma classe denominada Game que:
+    (1) Defina uma coleção de objetos da classe Jogador denominada jogadores.
+    (2) Insira 9 objetos na coleção jogadores, sendo 3 objetos da classe Principante,3 da classe Profissional e 3 da classe Senior, em qualquer ordem.
+    (3) Oferte ao usuário o seguinte menu de operações (em loop):
+        a. Criar um objeto da classe Principante e inseri-lo na coleção
+        jogadores.
+        b. Criar um objeto da classe Profissional e inseri-lo na coleção
+        jogadores.
+        c. Criar um objeto da classe Senior e inseri-lo na coleção jogadores.
+        d. Aplicar o método ganhar para um jogador específico, dado o seu
+        nome.
+        e. Aplicar o método perder para um jogador específico, dado o seu
+        nome.
+        f. Aplicar o método imprimir para um jogador específico, dado o seu
+        nome.
+        g. Aplicar o método imprimir para todos os objetos da coleção
+        jogadores.
